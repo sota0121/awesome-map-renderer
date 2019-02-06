@@ -16,6 +16,7 @@ Technology of rendering digital maps on browser
       - map source is osm
       - create your style on mapbox studio
       - creating maps in your style on the web or native app
+      - ref:https://paiza.hatenablog.com/entry/2017/12/07/JavaScript%E3%81%A7%E5%88%B6%E5%BE%A1%E3%81%A7%E3%81%8D%E3%82%8BWeb%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E4%B8%87%E8%83%BD%E3%83%9E%E3%83%83%E3%83%97%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%80%8CMapbox_Stud
 - map3d
   - [cesiumjs](https://cesiumjs.org/)
     - [github](https://github.com/AnalyticalGraphicsInc/cesium)
