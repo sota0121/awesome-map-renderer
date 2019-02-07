@@ -1,6 +1,22 @@
 # digital-maps
 Technology of rendering digital maps on browser
 
+# classify
+- Map(or Maps API) provider
+  - Google Maps(Google Maps Platform)
+  - Bing Maps
+  - MapBox
+  - OpenStreetMap
+- Library for rendering Maps(or tile object like maps)
+  - leaflet.js
+  - OpenLayers
+- for example ...
+  - leaflet + BingMaps
+  - leaflet + MapBox
+  - leaflet + OpenStreetMap
+  - OpenLayers + BingMaps ... etc
+  - <strong><font color=red>note >> Google Maps must be access with GoogleMapsAPI</font></strong>
+
 # table of contents
 - map2d
   - library for creating interactive maps on the web
