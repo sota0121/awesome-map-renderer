@@ -2,11 +2,12 @@
 Technology of rendering digital maps on browser
 
 # classify
-- Map(or Maps API) provider
+- Map(or Maps API) provider 2D and 3D
   - Google Maps(Google Maps Platform)
   - Bing Maps
   - MapBox
   - OpenStreetMap
+  - Cesium ion(3D content)
 - Library for rendering Maps(or tile object like maps)
   - leaflet.js
   - OpenLayers
@@ -16,6 +17,8 @@ Technology of rendering digital maps on browser
   - leaflet + OpenStreetMap
   - OpenLayers + BingMaps ... etc
   - <strong><font color=red>note >> Google Maps must be access with GoogleMapsAPI</font></strong>
+- Library for world-class 3D globes and maps(3D visualization not only map but also general 3D data)
+  - CesiumJS
 
 # table of contents
 - map2d
@@ -37,6 +40,7 @@ Technology of rendering digital maps on browser
   - [cesiumjs](https://cesiumjs.org/)
     - [github](https://github.com/AnalyticalGraphicsInc/cesium)
   - [ol-cesiumjs](https://openlayers.org/ol-cesium/)
+    - OpenLayers - Cesium **integration** library.
     - [github](https://github.com/openlayers/ol-cesium)
   - [osm-3d](http://www.osm-3d.org/map.htm)
   - [osm-buildings](https://osmbuildings.org/)
