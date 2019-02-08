@@ -16,7 +16,7 @@ Technology of rendering digital maps on browser
   - leaflet + MapBox
   - leaflet + OpenStreetMap
   - OpenLayers + BingMaps ... etc
-  - <strong><font color=red>note >> Google Maps must be access with GoogleMapsAPI</font></strong>
+  - <strong><font color=red>note >> Google Maps must be accessed with GoogleMapsAPI</font></strong>
 - Library for world-class 3D globes and maps(3D visualization not only map but also general 3D data)
   - CesiumJS
 
