@@ -4,7 +4,7 @@
 
 1. [Create a Cesium ion account](https://cesium.com/ion)
 2. sample code
-   1. copy code below and run on local server
+   1. copy code below and <font color=red><strong>run on the server</strong></font>
    2. ![img1](img/01.png)
 3. Adding Cesium World Terrain
    1. ![img2](img/02.png)

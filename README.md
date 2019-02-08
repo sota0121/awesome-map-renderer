@@ -7,7 +7,7 @@ Technology of rendering digital maps on browser
   - Bing Maps
   - MapBox
   - OpenStreetMap
-  - Cesium ion(3D content)
+  - Cesium ion(3D content) --> <font color=orange>instead of Google Earth</font>
 - Library for rendering Maps(or tile object like maps)
   - leaflet.js
   - OpenLayers
@@ -44,6 +44,7 @@ Technology of rendering digital maps on browser
     - [github](https://github.com/openlayers/ol-cesium)
   - [osm-3d](http://www.osm-3d.org/map.htm)
   - [osm-buildings](https://osmbuildings.org/)
+    - OSM Buildings is a library for visualizing 3d building geometry.
     - [github](https://github.com/OSMBuildings/OSMBuildings)
     - 1. using osmbuildings api
     - 2. using leaflet
